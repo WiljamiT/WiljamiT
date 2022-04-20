@@ -1,4 +1,5 @@
-![Gittiin](https://user-images.githubusercontent.com/74732018/164179766-9f31a470-c1bf-4841-a58d-93fd06a52b9e.png)
+
+![Gittiin2](https://user-images.githubusercontent.com/74732018/164179990-0e383ad8-43f4-4e43-be18-ec6ca3b99d27.png)
 
 
 <!---
