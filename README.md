@@ -1,7 +1,4 @@
-- 👋 Hei! Olen Wiljami Takkinen.
-- 👀 Kiinnostaa: Koodaaminen.
-- 🌱 Opiskelen tieto- ja viestintätekniikkaa.
-- 📫 Tavoittaa: wtakkinen@gmail.com
+- 👋 Wiljami Takkinen.
 
 <!---
 WiljamiT/WiljamiT is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
